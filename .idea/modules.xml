@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cryptocurrency-Trading-Bots-Python-Beginner-Advance.iml" filepath="$PROJECT_DIR$/.idea/Cryptocurrency-Trading-Bots-Python-Beginner-Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-binance/.idea/python-binance.iml" filepath="$PROJECT_DIR$/../python-binance/.idea/python-binance.iml" />
+    </modules>
+  </component>
+</project>
